@@ -1,6 +1,7 @@
 # 🧮 Calculator App
 
 A stylish and fully functional calculator built with HTML, CSS, and JavaScript. The app provides basic arithmetic operations with a responsive and interactive UI.
+🔗 **Live Demo:** [Click here to try it out](https://lucent-pie-05bb39.netlify.app/)
 
 ## 🚀 Features
 
