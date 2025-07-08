@@ -17,18 +17,16 @@ A stylish and fully functional calculator built with HTML, CSS, and JavaScript. 
 - **JavaScript** – Logic for input handling and calculations
 - **[Optional] Background Image** – `image.avif` (add in project folder)
 
-## 📁 Project Structure
+### 📁 Project Structure
 
+```
 calculator/
-│
+├── index.html       # Main HTML structure
+├── style.css        # Styling and layout
+├── script.js        # Calculator logic
+└── image.avif       # Background image (optional)
+```
 
-├── index.html # Main HTML structure
-
-├── style.css # Styling and layout
-
-├── script.js # Calculator logic
-
-└── image.avif # Background image (optional)
 
 
 ## 🎨 UI Theme
@@ -41,4 +39,4 @@ calculator/
 
 1. Clone or download the repository:
    ```bash
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/your-username/Calculator.git
