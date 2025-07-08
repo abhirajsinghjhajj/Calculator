@@ -21,9 +21,13 @@ A stylish and fully functional calculator built with HTML, CSS, and JavaScript. 
 
 calculator/
 │
+
 ├── index.html # Main HTML structure
+
 ├── style.css # Styling and layout
+
 ├── script.js # Calculator logic
+
 └── image.avif # Background image (optional)
 
 
